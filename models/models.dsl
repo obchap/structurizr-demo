@@ -1,4 +1,6 @@
 workspace "Extends Example" {
+    # Using "!impliedRelationships false" here works as expected
+
     description "Create the base model and relationships"
 
     model {

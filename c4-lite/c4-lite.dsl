@@ -1,4 +1,5 @@
 workspace extends ../models/models.dsl {
+    # This does not work
     !impliedRelationships false
 
     views {

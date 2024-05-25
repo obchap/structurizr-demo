@@ -10,7 +10,7 @@ workspace extends ../models/models.dsl {
 
         container digitalOrdering "Container_Digital_Ordering_Platform" {
             include *
-            autolayout
+            autolayout lr
         }
     }
 }
